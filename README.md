@@ -74,6 +74,6 @@ Thanks to [tunnel-rat](https://github.com/pmndrs/tunnel-rat) the starter can por
 ### How to contribute :
 
 ```bash
-git clone https://github.com/pmndrs/react-three-next
+git clone https://github.com/FahadAliQureshi/A-minimalist-starter-for-NextJS-react-three-fiber-and-Threejs.git
 && cd react-three-next && yarn install
 ```
